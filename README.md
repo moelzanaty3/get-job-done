@@ -11,7 +11,7 @@
 
 In the event that you are aware of any exceptional internship or junior position within the realm of technology, kindly bring it to my attention without delay.:
 
-- Make a Pull Request
+- Open a [Pull Request](https://github.com/moelzanaty3/get-job-done/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc)
 - Fill this google [form](https://bit.ly/gjd-lt2) 🤗 ❤️
 
 ## Tips for the interview
