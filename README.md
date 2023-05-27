@@ -26,11 +26,9 @@ Some of the internships may require a technical interview
 
 ## Internships 👔
 
-| Name                           | Company  | On-site/remote | Target Audience                      | Duration | Place        |
+| Name                           | Company  | Work Type |  Audience                      | Duration | Place        |
 |--------------------------------|----------|----------------|--------------------------------------|----------|--------------|
-| [Explore Youth Internship _VOIS](https://www.linkedin.com/jobs/view/3612095395/?alternateChannel=search&refId=v43mMon%2FD3%2BB0JdvA0%2B7Qw%3D%3D&trackingId=iVDeLSxPXnG%2BEbZydZD1ig%3D%3D) | Vodafone | Hybrid         | Undergraduates or recently graduated | 1 Month  | Cairo, Egypt |
-|                                |          |                |                                      |          |              |
-|                                |          |                |                                      |          |              |
+| [Explore Youth Internship _VOIS](https://www.linkedin.com/jobs/view/3612095395/?alternateChannel=search&refId=v43mMon%2FD3%2BB0JdvA0%2B7Qw%3D%3D&trackingId=iVDeLSxPXnG%2BEbZydZD1ig%3D%3D) | Vodafone | Hybrid         | Undergraduates / Graduated | 1 Month  | Cairo |
 
 ## Juniors 👩🏻‍💻
 
