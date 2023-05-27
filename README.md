@@ -18,7 +18,7 @@ In the event that you are aware of any exceptional internship or junior position
 
 Some of the internships may require a technical interview
 
-- the 💯 Curated coding interview preparation materials for busy software engineers [***Tech Interview Handbook***](https://github.com/yangshun/tech-interview-handbook) 📖
+- the 💯 Curated coding interview preparation materials for software engineers [***Tech Interview Handbook***](https://github.com/yangshun/tech-interview-handbook) 📖
 
 ## Stack Info
 
